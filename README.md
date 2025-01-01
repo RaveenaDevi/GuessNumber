@@ -1,1 +1,3 @@
 # GuessNumber
+
+![image](Capture.PNG)
